@@ -45,8 +45,8 @@ The other end is 0.002 sec (0.002 / 0.000064 = 31 ticks)
 #define PEN_SERVO
 // these are full travel values. If you want to move less than full travel adjust these values
 // If your servo is going the wrong way, swap them.
-#define PEN_SERVO_DOWN     30      
-#define PEN_SERVO_UP       25        
+#define PEN_SERVO_DOWN     25      
+#define PEN_SERVO_UP       30        
  
 #ifdef VARIABLE_SPINDLE
   static float pwm_gradient; // Precalulated value to speed up rpm to PWM conversions.
