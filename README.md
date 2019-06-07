@@ -1,6 +1,13 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 
 ***
+GRBL 1.1 modified to run a XY pen plotter using a servo for pen lifting with this design on thingiverse:
+https://www.thingiverse.com/thing:3676467
+
+Pin Configuration for Arduino Uno + CNC Shield V3
+Servo signal pin = Z+
+
+***
 _Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl/releases)_
 ***
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino with a 328p processor (Uno, Duemilanove, Nano, Micro, etc).
