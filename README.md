@@ -5,6 +5,7 @@ GRBL 1.1 modified to run a XY pen plotter using a servo for pen lifting with thi
 https://www.thingiverse.com/thing:3676467
 
 Pin Configuration for Arduino Uno + CNC Shield V3
+
 Servo signal pin = Z+
 
 ***
